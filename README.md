@@ -1,3 +1,29 @@
+
+created postman named app with component based architecture with help o login , register and product 
+component and apply poper clean ui using CSS and it has various function first register component 
+registers newly users using their email and password and then login page uses this registered data for users login 
+and if email and password match with our json servers data then it give you access to use website and in product 
+component theier are 8 avrioud typoes of products with their price tag.
+and in product component when we open product component it give you serch and users email in top of the page
+
+this is overview of our postman app
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
